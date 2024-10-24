@@ -2,7 +2,7 @@ MULTI SPLAY TREES
 Data Structures and Algorithms Project
 
 Team Members:-
-VASU BAJAJ
+Daksh Chhipa
 
 Project Details
 Name: Implemetation and Analysis of Multi-Splay
